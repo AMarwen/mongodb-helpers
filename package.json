@@ -1,12 +1,12 @@
 {
-  "author": "Amri Marwen",
-  "name": "mongodb-helpers",
-  "version": "1.0.0",
-  "description": "a set of methods that will help you to work with  mongDb Databse",
-  "main": "index.js" ,
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/AMarwen/mongodb-helpers"
-  }
+"author": "Amri Marwen",
+"name": "mongodb-helpers",
+"version": "1.0.1",
+"description": "a set of methods that will help you to work with  mongDb Databse. wit this version a bug has bee fixed",
+"main": "index.js" ,
+"repository": {
+"type": "git",
+"url": "https://github.com/AMarwen/mongodb-helpers"
+}
 
 }
