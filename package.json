@@ -3,5 +3,10 @@
   "name": "mongodb-helpers",
   "version": "1.0.0",
   "description": "a set of methods that will help you to work with  mongDb Databse",
-  "main": "index.js"
+  "main": "index.js" ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AMarwen/mongodb-helpers"
+  }
+
 }
