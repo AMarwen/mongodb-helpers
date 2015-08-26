@@ -1,0 +1,7 @@
+{
+  "author": "Amri Marwen",
+  "name": "mongodb-helpers",
+  "version": "1.0.0",
+  "description": "a set of methods that will help you to work with  mongDb Databse",
+  "main": "index.js"
+}
